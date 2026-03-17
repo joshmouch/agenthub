@@ -1,4 +1,4 @@
-# Binaries
+# Go binaries
 /agenthub-server
 /ah
 
@@ -10,3 +10,7 @@ data/
 
 # OS
 .DS_Store
+
+# C# / .NET build artifacts
+src/**/bin/
+src/**/obj/
