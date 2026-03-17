@@ -2,10 +2,6 @@
 src/**/bin/
 src/**/obj/
 
-# Go binaries
-/agenthub-server
-/ah
-
 # Runtime data
 data/
 
