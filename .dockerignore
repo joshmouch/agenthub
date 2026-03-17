@@ -1,0 +1,19 @@
+# SDK / build output
+src/**/bin/
+src/**/obj/
+
+# Go binaries
+/agenthub-server
+/ah
+
+# Runtime data
+data/
+
+# Secrets
+.env
+
+# VCS
+.git/
+
+# OS
+.DS_Store
