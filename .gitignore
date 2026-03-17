@@ -1,7 +1,3 @@
-# Binaries
-/agenthub-server
-/ah
-
 # Data directory
 data/
 
@@ -10,3 +6,7 @@ data/
 
 # OS
 .DS_Store
+
+# C# / .NET build artifacts
+src/**/bin/
+src/**/obj/

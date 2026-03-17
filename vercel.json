@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "buildCommand": "dotnet publish src/AgentHub.Server/AgentHub.Server.csproj -c Release -o .vercel/output/server --no-self-contained",
+  "framework": null,
+  "installCommand": null,
+  "regions": ["iad1"],
+  "env": {
+    "AGENTHUB_ADMIN_KEY": "@agenthub_admin_key"
+  }
+}

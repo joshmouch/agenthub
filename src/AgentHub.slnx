@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AgentHub.Cli/AgentHub.Cli.csproj" />
+  <Project Path="AgentHub.Server/AgentHub.Server.csproj" />
+</Solution>

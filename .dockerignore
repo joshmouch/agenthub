@@ -1,0 +1,15 @@
+# SDK / build output
+src/**/bin/
+src/**/obj/
+
+# Runtime data
+data/
+
+# Secrets
+.env
+
+# VCS
+.git/
+
+# OS
+.DS_Store
